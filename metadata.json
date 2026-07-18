@@ -1,0 +1,6 @@
+{
+  "name": "Lakhyajit Handique AI",
+  "description": "World's Best High-Definition Image-to-Video Generator. Patent Owner: Lakhyajit Handique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
